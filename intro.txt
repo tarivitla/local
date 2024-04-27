@@ -1,0 +1,2 @@
+this is a session o git and github. we are learnign how we can add, commit and push our
+ changes from our local files system to remote repo.
